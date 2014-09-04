@@ -1,0 +1,7 @@
+## Welcome to the mspeak project
+
+This is a tiny library made to reproduce printf functionality on the
+smaller Ti Launchpad MSP430G2231 microcontrollers.
+
+Right now most of this code is *not* mine, please see the additional
+license information and credits in mspeak.S
